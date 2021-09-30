@@ -1,0 +1,43 @@
+.drag-section .inner-box {
+    padding-left: 50px;
+  }
+  
+  .drag-item-content {
+    padding-top: 10px;
+    padding-right: 10px;
+  }
+  
+  .heading-branch .btn-join {
+    position: absolute;
+    bottom: 15%;
+    right: 20%;
+  }
+  
+  @media (max-width: 992px) {
+    .heading-branch .btn-join {
+      right: 5px;
+    }
+  }
+  .branch-block {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .branch-block [class^="col"] {
+    margin-bottom: 20px;
+  }
+  
+  .branch-block .service_single_content {
+    height: 100%;
+    padding: 0;
+  }
+  
+  .branch-block .service_single_content img {
+    max-width: 100%;
+    height: 60px !important;
+  }
+  
+  .branch-block .service_single_content .img-otalk {
+    height: 40px !important;
+  }
+  

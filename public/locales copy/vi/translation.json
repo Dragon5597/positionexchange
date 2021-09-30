@@ -1,0 +1,169 @@
+{
+  "days": "Ngày",
+  "hours": "Giờ",
+  "minutes": "Phút",
+  "seconds": "Giây",
+  "navigation": {
+    "about": "Về chúng tôi",
+    "services": "Dịch vụ",
+    "technology": "Công nghệ",
+    "road_map": "Lộ trình",
+    "token": "Token",
+    "contact": "Liên hệ"
+  },
+  "action": {
+    "white_paper": "White Paper",
+    "airdrop": "Airdrop",
+    "buy_like_token": "Mua Token",
+    "buy_more_token": "Mua thêm Tokens",
+    "join_the_team": "Tham gia vào đội",
+    "read_detail": "Xem thêm"
+  },
+  "hero_section": {
+    "title_1": "Bắt đầu nhận Like token và",
+    "title_2": "cùng hưởng lợi từ Like2like",
+    "description_1": "Like2Like là một cộng đồng người dùng mạng xã hội trên toàn cầu",
+    "description_2": "Nắm bắt được giá trị mà Social Media mang lại cho cuộc sống",
+    "description_3": "Dễ dàng tiến hành các dự án bằng cách sử dụng Like token",
+    "description_4": "Tăng thu nhập nhanh hơn với Like2like",
+    "watch_video": "Xem giới thiệu"
+  },
+  "count_down": {
+    "title_event": "Private sale countdown",
+    "time_up": "Hết giờ"
+  },
+  "investment_section": {
+    "title": "Đầu tư có lợi nhuận",
+    "description_1": "Sử dụng thanh trượt hoặc nhập số tiền để theo dõi biến động khoản đầu tư của bạn, được phân tách cụ thể theo từng giai đoạn.",
+    "description_2": "Biểu đồ cho thấy thu nhập ước tính và tăng trưởng đầu tư thông qua Like token, tiền lãi và mức tăng giá trị dự kiến (trong thực tế có thể sẽ cao hơn tính toán). Mô hình này là thuần là ví dụ cho việc tính toán khoản đầu tư.",
+    "chart_title": "Total investment",
+    "price_per_token": "Giá mỗi token",
+    "total_token": "Tổng token"
+  },
+  "offer_section": {
+    "title": "Tiện ích",
+    "list1_title": "Like Token Mining",
+    "list1_description": "Mining token vừa là app vừa là trò chơi mang lại niềm vui, đem lại sự giải trí cho người dùng và đồng thời giúp cộng đồng phát triển lâu dài",
+    "list2_title": "Like token",
+    "list2_description": "Là một loại tiền điện tử, liên kết chặt chẽ các sàn giao dịch giữa các chủ sở hữu dự án và người dân",
+    "list3_title": "Token airdrop",
+    "list3_description": "Các dự án có thể trao các đồng token miễn phí cho Like2like cộng đồng, nhằm tăng độ nhận diện trên thị trường. Người dùng nền tảng đều được hưởng lợi khi nhận được token này."
+  },
+  "technology_section": {
+    "title": "Công nghệ",
+    "description_1": "Like2like của chúng tôi cung cấp một nền tảng dựa trên công nghệ Blockchain để người dùng có được sự bảo mật tối đa.",
+    "description_2": "Điểm đặc biệt nằm ở Công nghệ Blockchain CSE30 3.0 được trang bị công nghệ AI và Trí tuệ giúp tối ưu nền tảng. Hợp đồng thông minh được sử dụng phát triển các công việc kinh doanh cho các bên liên quan của chúng tôi."
+  },
+  "road_map_section": {
+    "title": "Lộ trình của chúng tôi",
+    "2018": {
+      "date": "2018",
+      "content_1": "2018: lên kế hoạch và thiết kế cho ý tưởng"
+    },
+    "q2_2020": {
+      "date": "Q2 2020",
+      "content_1": "Q2 20:",
+      "content_2": "xây dựng đội ngũ",
+      "content_3": "thành lập công ty",
+      "content_4": "Chuẩn bị vấn đề pháp lý",
+      "content_5": "khái niệm phát triển",
+      "content_6": "phát triển phiên bản đầu tiên"
+    },
+    "nov_2020": {
+      "date": "Nov 2020",
+      "content_1": "Nov 20: Khởi chạy phiên bản đầu tiên, đàm phán giữa các bên đối tác",
+      "content_2": "Dec 20: Phát hành tính năng Thích, Chia sẻ, Theo dõi bài đăng trên facebook"
+    },
+    "feb_2021": {
+      "date": "Feb 2021",
+      "content_1": "Feb 21: Phát hành trực tiếp Air Drop, Like token bắt đầu được giới thiệu trên CS9"
+    },
+    "mar_2021": {
+      "date": "Mar 2021",
+      "content_1": "Mar 21: Trang web White Paper được xuất bản"
+    },
+    "apr_2021": {
+      "date": "Apr 2021",
+      "content_1": "Apr 21: Bắt đầu bán phiên bản private và Pre-Start. Phát hành các chức năng liên quan đến nền tảng Youtube và Tiktok"
+    },
+    "july_2021": {
+      "date": "July 2021",
+      "content_1": "July 21: Danh sách chiến dịch tiếp thị Crowdsale lên các sàn giao dịch"
+    },
+    "dec_2021": {
+      "date": "Dec 2021",
+      "content_1": "Dec 21: Ứng dụng di động Explorer mở rộng quan hệ với các đối tác và hỗ trợ thị trường mới"
+    },
+    "q1_2022": {
+      "date": "Q1 2022",
+      "content_1": "Q1 22: Cập nhật các mô-đun thanh toán nền tảng UIWTH, hợp tác để khởi chạy các nền tảng truyền thông xã hội khác"
+    }
+  },
+  "token_sale": {
+    "title": "Kết thúc bán Token",
+    "pre_sale_1": "Pre-sales round 1",
+    "pre_sale_2": "Pre-sales round 2",
+    "pre_sale_3": "Pre-sales round 3",
+    "cs9_exchange": "Trao đổi trên cs9",
+    "token_sold": "Đã bán token",
+    "pre_sale_token": "Chuẩn bị giảm giá token",
+    "fund_distribution": {
+      "title": "Phân phối ngân sách",
+      "description_1": "Quỹ tăng lên bởi các Token được tạo từ  hợp đồng sẽ được phân phối",
+      "description_2": "dựa trên những điều sau:",
+      "marketing": "Tiếp thị",
+      "operation_legal": "Hoạt động legal",
+      "development": "Phát triển",
+      "reserve": "Dự trữ"
+    }
+  },
+  "presence_section": {
+    "title": "Độ phủ",
+    "description1": "Like2like đã được sử dụng và tham gia bởi công dân toàn cầu từ năm 2020",
+    "description2": "Người dùng từ hơn 100 quốc gia trên thế giới đã tham gia trong vòng 4 tháng.",
+    "description3": "Like2like dự kiến sẽ mở rộng đến hơn 200 quốc gia vào năm 2021"
+  },
+  "our_team_section": {
+    "title": "Nhân sự",
+    "description": "Like2like bao gồm một đội ngũ chuyên nghiệp và tận tâm. Những người sẽ đưa doanh nghiệp của bạn lên một tầm cao mới",
+    "engineer": "kỹ sư",
+    "business_developers": "phát triển doanh nghiệp",
+    "nations_joining": "quốc gia tham gia",
+    "delivery_countries": "quốc gia vận chuyển"
+  },
+  "partner_section": {
+    "title": "Đối tác"
+  },
+  "footer": {
+    "slogan": "Chúng tôi cam kết trở thành một cộng đồng xã hội mang lại nhiều giá trị cho khách hàng bằng cách kết nối những người sử dụng công nghệ đổi mới",
+    "privacy": "Bảo mật",
+    "contact_us": "Liên hệ chúng tôi",
+    "terms_of_use": "Điều khoản sử dụng",
+    "privacy_policy": "Chính sách bảo mật",
+    "technology_privacy": "Bảo mật công nghệ",
+    "developer_agreement": "Hợp đồng nhà phát triển"
+  },
+  "blog_section": {
+    "title": "Tin mới",
+    "blog_1": {
+      "title": "Like2like: Hệ thống đồng hành của status triệu like",
+      "description": "Đáp ứng nhu cầu tăng tương tác mạng xã hội dành cho cá nhân và doanh nghiệp, Like2like ra đời mang những bước đột phá mới bậc nhất trong Social Marketing."
+    },
+    "blog_2": {
+      "title": "Like2like: Bước đột phá trong Social Marketing",
+      "description": "Đáp ứng nhu cầu tăng tương tác mạng xã hội dành cho cá nhân và doanh nghiệp, Like2like ra đời mang những bước đột phá mới bậc nhất trong Social Marketing."
+    },
+    "blog_3": {
+      "title": "Bị Facebook ‘bóp’ tương tác, doanh nghiệp tìm giải pháp tháo gỡ",
+      "description": "Bị Facebook “bóp” tương tác tài khoản dù chi nhiều tiền, nhiều cá nhân và doanh nghiệp đang tìm đến phần mềm Like2like như một giải pháp hỗ trợ nhằm khắc phục tình trạng."
+    },
+    "blog_4": {
+      "title": "Ra mắt sàn Like2Like",
+      "description": "Sàn Like2like: Phần mềm tăng tương tác đầu tiên ứng dụng công nghệ CSE30. Với việc ra mắt sàn Like2like, OTalk cho thấy nỗ lực mang đến cho người dùng một phần mềm tăng tương tác hiệu quả và an toàn."
+    },
+    "blog_5": {
+      "title": "Công nghệ Blockchain: Bước tiến thần kỳ tiếp theo là gì?",
+      "description": "Tiếp nối sự thành công của Blockchain 1.0 (BTC) và Blockchain 2.0 (ETH), Công ty CSE SG PTE LTD đã cho ra đời nền tảng Blockchain 3.0 (CSE30) và Smartcontract 2.0 sau hơn 4 năm nghiên cứu."
+    }
+  }
+}

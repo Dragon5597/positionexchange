@@ -1,0 +1,247 @@
+{
+  "days": "Days",
+  "hours": "Hours",
+  "minutes": "Minutes",
+  "seconds": "Seconds",
+  "join": "Join Now",
+  "shopping": "Shopping Now",
+  "navigation": {
+    "about": "About",
+    "services": "Services",
+    "technology": "Technology",
+    "road_map": "Roadmap",
+    "token": "Token",
+    "contact": "Contact"
+  },
+  "navbar": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "technology": "Technology",
+    "event": "Upcoming event",
+    "contact": "Contact",
+    "library": "Library"
+  },
+  "hero": {
+    "countries": "Countries",
+    "schools": "Schools",
+    "teachers": "Teachers",
+    "students": "Students"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "like-mining": {
+      "title1": "Small and compact equipment Optimizing software and technology to integrate many of the world's best algorithms into optimized miner",
+      "title2": "The large amount of data of the miner is stored entirely by cloud computing technology",
+      "title3": "The structure is divided into 3 parts: Dataset, data storage, hash processing."
+    },
+    "like-games": {
+      "title1": "The place where all the games are built around the Like Token system such as Pets, Traffic Racer…;",
+      "title2": "Helping users both entertain and earn money, increase income for themselves, thei"
+    },
+    "like-fit": {
+      "title1": "Creating a community with the spirit of proactive health promotion through walking and helping to increase income;",
+      "title2": "Through the smartphone, Like Fit will accompany throughout the exercise process, helping users have good exercise habits;",
+      "title3": "Spread the health promotion message by sharing Like Fit to friends and relatives, plus, receive rewards;"
+    },
+    "like-farming": {
+      "title1": "Also known as “Yield Farming” or 'Liquidity mining'",
+      "title2": "Input your USDT or other accepted token to the application to earn Like token or other CSE token, which provided in our system",
+      "title3": "Apply new Defi technology and strategy in this farming system",
+      "title4": "Earn Passive income up to 120% per year."
+    },
+    "like-staking": {
+      "title1": "Growing Crypto assets through global partners and CSE community;Increase passive income through efficient and convenient tools;",
+      "title2": "Manage portfolio risk more effectively with Blockchain technology ver 3.0 and Smart Contract",
+      "title3": "Users do not have to spend much time with Like Staking, because there is the support of automation tools, processed by AI technology."
+    },
+    "like-up": {
+      "title1": "Smart interaction card 4.0 – Interact with just one button;",
+      "title2": "Get real social media engagement based on investment value;",
+      "title3": "Bring investment value for the future when Like Token increases in value."
+    },
+    "like-nft": {
+      "title1": "The user's tools, weapons, avatars ... can increase in value many times in the future;",
+      "title2": "More transparency and convenience with Blockchain 3.0 technology; Safer, more secure and efficient storage.",
+      "title3": "Safer, more secure and efficient storage."
+    },
+    "like-upcomming": {
+      "title1": "Officially deploying Like Mining app – Open sale of Like Miner devices:",
+      "title2": "Friendly products with the environment; One of the first 'Green Bitcoin' projects",
+      "title3": "Available for sale with only 200 Like Miner devices on June 1, 2021"
+    }
+  },
+  "technology": {
+    "title": "Technology",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "download": "Download on the"
+  },
+  "event": {
+     "title": "Upcoming event",
+     "watchVideo": "Click me to watch video!",
+     "notify": "Event open sell like miner:",
+     "notify1": "Product closet with enviroment",
+     "notify2": "Like token is 'green bitcoin'",
+     "notify3": "Open sell 200 piece at 06/01/2021 (MM/DD/YYYY)"
+  },
+  "action": {
+    "white_paper": "White Paper",
+    "airdrop": "Airdrop",
+    "buy_like_token": "Buy Like Token",
+    "buy_more_token": "Buy More Tokens",
+    "join_the_team": "Join Now",
+    "read_detail": "Read Details"
+  },
+  "hero_section": {
+    "title_1": "Start earning like token &",
+    "title_2": "benefiting from Like2like",
+    "description_1": "Like2Like is a global social media users community",
+    "description_2": "Capturing the abilities and value that Social Media brings",
+    "description_3": "Easily conduct your projects using like token",
+    "description_4": "Increase the income with Like2like",
+    "watch_video": "Watch trailer"
+  },
+  "count_down": {
+    "title_event": "Pre-sales round 1",
+    "time_up": "Time's up!"
+  },
+  "investment_section": {
+    "title": "Calculate multiplication of investments",
+    "description_1": "Use the slider or enter the amount manually in order to trace the dynamics of your investment development, disaggregated by year.",
+    "description_2": "The chart shows the estimated income and investment growth through the bonus tokens and the projected growth in their value. The actual result may be higher. The model is an example of calculation, and should not be considered as a solicitation to acquire tokens.",
+    "chart_title": "Total investment",
+    "price_per_token": "Price per token",
+    "total_token": "Total token"
+  },
+  "offer_section": {
+    "title": "What we offer",
+    "list1_title": "Like token mining",
+    "list1_description": " Mining game brings fun, entertainment and loyalty to the users, which enables the community to grow in the long term.",
+    "list2_title": "Like token",
+    "list2_description": "As a crypto currency in the platform, it fastens the exchanges between project owners and people. With the growth of Like2like, people can profit from token increasing prices.",
+    "list3_title": "Token airdrop",
+    "list3_description": "Like2like offers the cryptocurrency owners the chance to bring their token to its community. Members of the platform financially benefit from this function."
+  },
+  "technology_section": {
+    "title": "Our technology",
+    "description_1": "Like2Like delivers a platform based on Blockchain technology to the user obtaining maximum security.",
+    "description_2": "Our strongest tool is CSE30 Blockchain Technology 3.0. The biggest hit from us is our deliverance of Smart Contract and system equipped with AI technology and Business Intelligence for the sack of our stakeholders."
+  },
+  "road_map_section": {
+    "2018": {
+      "date": "2018",
+      "content_1": "2018 : Emergence and design of the idea"
+    },
+    "title": "Our roadmap",
+    "q2_2020": {
+      "date": "Q2 2020",
+      "content_1": "Q2 20:",
+      "content_2": "built our team",
+      "content_3": "company establishment",
+      "content_4": "legal issues setting",
+      "content_5": "concept development",
+      "content_6": "start development of the earlier version"
+    },
+    "nov_2020": {
+      "date": "Nov 2020",
+      "content_1": "Nov 20: Launch first version of Like2like platform negotiations on partnerships",
+      "content_2": "Dec 20: Release Like, Share, Follow facebook post feature"
+    },
+    "feb_2021": {
+      "date": "Feb 2021",
+      "content_1": "Feb 21: Go live Air Drop. Introduced token on CS9"
+    },
+    "mar_2021": {
+      "date": "Mar 2021",
+      "content_1": "Mar 21: Website launch White Paper published"
+    },
+    "apr_2021": {
+      "date": "Apr 2021",
+      "content_1": "Apr 21: Private and Pre-sale start. Release Youtube & Tiktok related functions"
+    },
+    "july_2021": {
+      "date": "July 2021",
+      "content_1": "July 21: Crowdsale marketing campaign listing to the major exchanges"
+    },
+    "dec_2021": {
+      "date": "Dec 2021",
+      "content_1": "Dec 21: Mobile App Explorer new partnerships and new marketplace support"
+    },
+    "q1_2022": {
+      "date": "Q1 2022",
+      "content_1": "Q1 22: Update platform with payments modules and cooperate to launch other social media platform"
+    }
+  },
+  "token_sale": {
+    "title": "Token sales ends",
+    "pre_sale_1": "Pre-sales round 1",
+    "pre_sale_2": "Pre-sales round 2",
+    "pre_sale_3": "Pre-sales round 3",
+    "cs9_exchange": "On CS9 exchange",
+    "token_sold": "Token sold",
+    "pre_sale_token": "Pre-sale token",
+    "fund_distribution": {
+      "title": "Fund distribution",
+      "description_1": "The fund raised by tokens created by the contract will be distributed",
+      "description_2": "based on the following:",
+      "marketing": "Marketing",
+      "operation_legal": "Operation & Legal",
+      "development": "Development",
+      "reserve": "Reserve"
+    }
+  },
+  "presence_section": {
+    "title": "Our presence",
+    "description1": "Like2Like is already used and joined by global citizen from 2020.",
+    "description2": "People from 100+ countries over the world joined us within 4 months.",
+    "description3": "Like2like plans to expand to more than 200 countries in 2021."
+  },
+  "our_team_section": {
+    "title": "Our team",
+    "description": "Like2like comprises a dedicated team who will take your business to the next level",
+    "engineer": "engineer",
+    "business_developers": "business developers",
+    "nations_joining": "nations joining support",
+    "delivery_countries": "delivery countries"
+  },
+  "partner_section": {
+    "title": "Our partner"
+  },
+  "footer": {
+    "slogan": "We are committed to being a social community which brings more value to the clients by connecting people with innovative technology.",
+    "privacy": "Privacy",
+    "contact_us": "Contact us",
+    "terms_of_use": "Terms of use",
+    "privacy_policy": "Privacy Policy",
+    "technology_privacy": "Technology Privacy",
+    "developer_agreement": "Developer Agreement"
+  },
+  "blog_section": {
+    "title": "Latest news",
+    "blog_1": {
+      "title": "Like2like:  The system for million-like status",
+      "description": " To meet the need of increasing interaction on social networks for both individuals and businesses, Like2like was born and brought the latest breakthroughs in Social Marketing."
+    },
+    "blog_2": {
+      "title": "Like2like - A Breakthrough in Social Marketing",
+      "description": "To meet increasing demand of social network interaction for individuals and businesses, Like2like advent brings new breakthroughs in Social Marketing."
+    },
+    "blog_3": {
+      "title": "Facebook squeezes network interactions, Business hustles find the solutions",
+      "description": "Facebook gets stricter to the conversion and interactions, both user and businesses come to Like2like as a solution to minimize the impact of Facebook's policy."
+    },
+    "blog_4": {
+      "title": "Like2Like platform public launching",
+      "description": "Like2like platform: the first application to boost interaction and conversion by applying CSE30 technology."
+    },
+    "blog_5": {
+      "title": "Blockchain: What is next?",
+      "description": "Following the success of Blockchain 1.0 (BTC) and Blockchain 2.0 (ETH), CSE SG PTE LTD published Blockchain 3.0 (CSE30) and Smart Contract 2.0 after 4 year of research and development."
+    }
+  },
+  "library": {
+    "title": "Library",
+    "downloadHere": "Download here",
+    "link1": "Like Token Capacity Profile",
+    "link2": "Like2Like & LikeToken"
+  }
+}

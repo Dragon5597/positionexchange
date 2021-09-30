@@ -1,0 +1,45 @@
+@import "./main.scss";
+
+
+
+.css-1sdjprt {
+    position: absolute;
+    left: 0px;
+    top: 1.5%;
+    z-index: 2;
+}
+@media only screen and (min-width: 1800px) and (max-width: 1920px) {
+	.css-1sdjprt {
+			opacity: 1;
+			transition: opacity 1s ease 0s;
+	}
+}
+
+@media only screen and (max-width: 1700px) {
+	.css-1sdjprt {
+			opacity: 0;
+			transition: opacity 1s ease 0s;
+	}
+}
+
+.introduce {
+	background-image: url("../images/background/bg-top.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.awesome {
+	background-image: url("../images/background/features-bg.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.download-right-now {
+	background-image: url("../images/background/bg-bottom.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.styles_typicalWrapper__1_Uvh {
+	display: inline;
+}
